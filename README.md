@@ -1,4 +1,4 @@
-470Project
+Cool Story
 ==========
 
 To Run:
